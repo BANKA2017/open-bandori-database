@@ -1,0 +1,1068 @@
+{
+  "band": {
+    "name_list": [
+      "Poppin' Party",
+      "Afterglow",
+      "Pastel*Palettes",
+      "Roselia",
+      "Hello, Happy World!",
+      "Morfonica",
+      "RAISE A SUILEN",
+      "Glitter*Green",
+      "CHiSPA",
+      "MyGO!!!!!",
+      "夢ノ結唱",
+      "Ave Mujica"
+    ],
+    "list": [
+      {
+        "name": "Poppin' Party",
+        "name_text": "poppin_party",
+        "member": {
+          "KASUMITOYAMA": {
+            "name": "戸山香澄",
+            "name_local": "户山香橙",
+            "cv": ["愛美"],
+            "cv_local": ["爱美"],
+            "part": "Gt.&Vo.",
+            "romaji": "KASUMI TOYAMA",
+            "birthday": "7/14",
+            "birthday_str": "0714",
+            "version": 3,
+            "color": [
+              "#FF5522"
+            ],
+            "school": "花咲川女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "巨蟹座",
+            "instrument": "ESP RANDOM STAR Kasumi",
+            "band": "Poppin' Party"
+          },
+          "TAEHANAZONO": {
+            "name": "花園たえ",
+            "version": 3,
+            "name_local": "花园多惠",
+            "cv": ["大塚紗英"],
+            "cv_local": ["大冢纱英"],
+            "part": "Gt.",
+            "romaji": "TAE HANAZONO",
+            "birthday": "12/4",
+            "birthday_str": "1204",
+            "color": [
+              "#0077DD"
+            ],
+            "school": "花咲川女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "射手座",
+            "instrument": "ESP SNAPPER Tae",
+            "band": "Poppin' Party"
+          },
+          "RIMIUSHIGOME": {
+            "name": "牛込りみ",
+            "version": 3,
+            "name_local": "牛込里美",
+            "cv": ["西本りみ"],
+            "cv_local": ["西本里美"],
+            "part": "Ba.",
+            "romaji": "RIMI USHIGOME",
+            "birthday": "3/23",
+            "birthday_str": "0323",
+            "color": [
+              "#FF55BB"
+            ],
+            "school": "花咲川女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "白羊座",
+            "instrument": "ESP VIPER BASS Rimi",
+            "band": "Poppin' Party"
+          },
+          "SAYAYAMABUKI": {
+            "name": "山吹沙綾",
+            "version": 3,
+            "name_local": "山吹沙绫",
+            "cv": ["大橋彩香"],
+            "cv_local": ["大桥彩香"],
+            "part": "Dr.",
+            "romaji": "SAYA YAMABUKI",
+            "birthday": "5/19",
+            "birthday_str": "0519",
+            "color": [
+              "#FFCC11"
+            ],
+            "school": "花咲川女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "金牛座",
+            "instrument": "Pearl Reference PURE Drum Kit",
+            "band": "Poppin' Party"
+          },
+          "ARISAICHIGAYA": {
+            "name": "市ヶ谷有咲",
+            "version": 3,
+            "name_local": "市谷有咲",
+            "cv": ["伊藤彩沙"],
+            "cv_local": ["伊藤彩沙"],
+            "part": "Key.",
+            "romaji": "ARISA ICHIGAYA",
+            "birthday": "10/27",
+            "birthday_str": "1027",
+            "color": [
+              "#AA66DD"
+            ],
+            "school": "花咲川女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "天蝎座",
+            "instrument": "Roland JUNO-DS61W、Roland AX-Synth",
+            "band": "Poppin' Party"
+          }
+        },
+        "color": [
+          "#FF3377",
+          "#FFDDEE"
+        ],
+        "live": true
+      },
+      {
+        "name": "Afterglow",
+        "name_text": "afterglow",
+        "member": {
+          "RANMITAKE": {
+            "name": "美竹蘭",
+            "version": 3,
+            "name_local": "美竹兰",
+            "cv": ["佐倉綾音"],
+            "cv_local": ["佐仓绫音"],
+            "part": "Gt.&Vo.",
+            "romaji": "RAN MITAKE",
+            "birthday": "4/10",
+            "birthday_str": "0410",
+            "color": [
+              "#EE0022"
+            ],
+            "school": "羽丘女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "金牛座",
+            "instrument": "",
+            "band": "Afterglow"
+          },
+          "MOCAAOBA": {
+            "name": "青葉モカ",
+            "name_local": "青叶摩卡",
+            "version": 3,
+            "cv": ["三澤紗千香"],
+            "cv_local": ["三泽纱千香"],
+            "part": "Gt.",
+            "romaji": "MOCA AOBA",
+            "birthday": "9/3",
+            "birthday_str": "0903",
+            "color": [
+              "#00CCAA"
+            ],
+            "school": "羽丘女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "处女座",
+            "instrument": "",
+            "band": "Afterglow"
+          },
+          "HIMARIUEHARA": {
+            "name": "上原ひまり",
+            "name_local": "上原绯玛丽",
+            "version": 3,
+            "cv": ["加藤英美里"],
+            "cv_local": ["加藤英美里"],
+            "part": "Ba.",
+            "romaji": "HIMARI UEHARA",
+            "birthday": "10/23",
+            "birthday_str": "1023",
+            "color": [
+              "#FF9999"
+            ],
+            "school": "羽丘女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "天秤座",
+            "instrument": "Fender American Vintage '74 Jazz Bass",
+            "band": "Afterglow"
+          },
+          "TOMOEUDAGAWA": {
+            "name": "宇田川巴",
+            "name_local": "宇田川巴",
+            "version": 3,
+            "cv": ["日笠陽子"],
+            "cv_local": ["日笠阳子"],
+            "part": "Dr.",
+            "romaji": "TOMOE UDAGAWA",
+            "birthday": "4/15",
+            "birthday_str": "0415",
+            "color": [
+              "#BB0033"
+            ],
+            "school": "羽丘女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "金牛座",
+            "instrument": "",
+            "band": "Afterglow"
+          },
+          "TSUGUMIHAZAWA": {
+            "name": "羽沢つぐみ",
+            "name_local": "羽泽鸫",
+            "cv": ["金元寿子"],
+            "version": 3,
+            "cv_local": ["金元寿子"],
+            "part": "Key.",
+            "romaji": "TSUGUMI HAZAWA",
+            "birthday": "1/7",
+            "birthday_str": "0107",
+            "color": [
+              "#FFEE88"
+            ],
+            "school": "羽丘女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "金牛座",
+            "instrument": "Nord Stage 2 EX HP76, Roland AX-Synth, Roland AX-1",
+            "band": "Afterglow"
+          }
+        },
+        "color": [
+          "#E53344",
+          "#FFDDDD"
+        ],
+        "live": false
+      },
+      {
+        "name": "Pastel*Palettes",
+        "name_text": "pastel_palettes",
+        "member": {
+          "AYAMARUYAMA": {
+            "name": "丸山彩",
+            "name_local": "丸山彩",
+            "cv": ["前島亜美"],
+            "cv_local": ["前岛亚美"],
+            "version": 3,
+            "part": "Vo.",
+            "romaji": "AYA MARUYAMA",
+            "birthday": "12/27",
+            "birthday_str": "1227",
+            "color": [
+              "#FF88BB"
+            ],
+            "school": "花咲川女子学园",
+            "school_year": "高中三年级",
+            "horoscope": "摩羯座",
+            "instrument": "",
+            "band": "Pastel*Palettes"
+          },
+          "HINAHIKAWA": {
+            "name": "氷川日菜",
+            "name_local": "冰川日菜",
+            "cv": ["小澤亜李"],
+            "cv_local": ["小泽亚李"],
+            "version": 3,
+            "part": "Gt.",
+            "romaji": "HINA HIKAWA",
+            "birthday": "3/20",
+            "birthday_str": "0320",
+            "color": [
+              "#55DDEE"
+            ],
+            "school": "羽丘女子学园",
+            "school_year": "高中三年级",
+            "horoscope": "双鱼座",
+            "instrument": "",
+            "band": "Pastel*Palettes"
+          },
+          "CHISATOSHIRASAGI": {
+            "name": "白鷺千聖",
+            "name_local": "白鹭千圣",
+            "cv": ["上坂すみれ"],
+            "cv_local": ["上坂堇"],
+            "version": 3,
+            "part": "Ba.",
+            "romaji": "CHISATO SHIRASAGI",
+            "birthday": "4/6",
+            "birthday_str": "0406",
+            "color": [
+              "#FFEEAA"
+            ],
+            "school": "花咲川女子学园",
+            "school_year": "高中三年级",
+            "horoscope": "白羊座",
+            "instrument": "Fender Japan PJ-36 JAZZ BASS SPECIAL",
+            "band": "Pastel*Palettes"
+          },
+          "MAYAYAMATO": {
+            "name": "大和麻弥",
+            "name_local": "大和麻弥",
+            "cv": ["中上育実"],
+            "cv_local": ["中上育实"],
+            "version": 3,
+            "part": "Dr.",
+            "romaji": "MAYA YAMATO",
+            "birthday": "11/3",
+            "birthday_str": "1103",
+            "color": [
+              "#99DD88"
+            ],
+            "school": "羽丘女子学园",
+            "school_year": "高中三年级",
+            "horoscope": "天蝎座",
+            "instrument": "",
+            "band": "Pastel*Palettes"
+          },
+          "EVEWAKAMIYA": {
+            "name": "若宮イヴ",
+            "name_local": "若宫伊芙",
+            "cv": ["秦佐和子"],
+            "cv_local": ["秦佐和子"],
+            "version": 3,
+            "part": "Key.",
+            "romaji": "EVE WAKAMIYA",
+            "birthday": "6/27",
+            "birthday_str": "0627",
+            "color": [
+              "#FFEE88"
+            ],
+            "school": "羽丘女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "巨蟹座",
+            "instrument": "KORG RK-100S、Roland Lucina AX-09",
+            "band": "Pastel*Palettes"
+          }
+        },
+        "color": [
+          "#33DDAA",
+          "#DDFFEE"
+        ],
+        "live": false
+      },
+      {
+        "name": "Roselia",
+        "name_text": "roselia",
+        "member": {
+          "YUKINAMINATO": {
+            "name": "湊友希那",
+            "name_local": "凑友希那",
+            "version": 3,
+            "cv": ["相羽あいな"],
+            "cv_local": ["相羽爱奈"],
+            "part": "Vo.",
+            "romaji": "YUKINA MINATO",
+            "birthday": "10/26",
+            "birthday_str": "1026",
+            "color": [
+              "#881188"
+            ],
+            "school": "羽丘女子学园",
+            "school_year": "高中三年级",
+            "horoscope": "天蝎座",
+            "instrument": "",
+            "band": "Roselia"
+          },
+          "SAYOHIKAWA": {
+            "name": "氷川紗夜",
+            "name_local": "冰川纱夜",
+            "version": 3,
+            "cv": ["工藤晴香"],
+            "cv_local": ["工藤晴香"],
+            "part": "Gt.",
+            "romaji": "SAYO HIKAWA",
+            "birthday": "3/20",
+            "birthday_str": "0320",
+            "color": [
+              "#00AABB"
+            ],
+            "school": "花咲川女子学园",
+            "school_year": "高中三年级",
+            "horoscope": "双鱼座",
+            "instrument": "ESP M-II ROSELIA SAYO",
+            "band": "Roselia"
+          },
+          "LISAIMAI": {
+            "name": "今井リサ",
+            "name_local": "今井莉莎",
+            "cv": ["中島由貴", "遠藤ゆりか"],
+            "version": 3,
+            "cv_local": ["中岛由贵", "远藤祐里香"],
+            "part": "Ba.",
+            "romaji": "LISA IMAI",
+            "birthday": "8/25",
+            "birthday_str": "0825",
+            "color": [
+              "#DD2200"
+            ],
+            "school": "羽丘女子学园",
+            "school_year": "高中三年级",
+            "horoscope": "处女座",
+            "instrument": "ESP BTL ROSELIA LISA",
+            "band": "Roselia"
+          },
+          "AKOUDAGAWA": {
+            "name": "宇田川あこ",
+            "name_local": "宇田川亚子",
+            "cv": ["櫻川めぐ"],
+            "cv_local": ["樱川惠"],
+            "part": "Dr.",
+            "version": 3,
+            "romaji": "AKO UDAGAWA",
+            "birthday": "7/3",
+            "birthday_str": "0703",
+            "color": [
+              "#DD0088"
+            ],
+            "school": "羽丘女子学园",
+            "school_year": "高中一年级",
+            "horoscope": "巨蟹座",
+            "instrument": "dw Collector's Maple Drum Set",
+            "band": "Roselia"
+          },
+          "RINKOSHIROKANE": {
+            "name": "白金燐子",
+            "name_local": "白金燐子",
+            "cv": ["志崎樺音", "明坂聡美"],
+            "cv_local": ["志崎桦音", "明坂聪美"],
+            "version": 3,
+            "part": "Key.",
+            "romaji": "RINKO SHIROKANE",
+            "birthday": "10/17",
+            "birthday_str": "1017",
+            "color": [
+              "#BBBBBB"
+            ],
+            "school": "花咲川女子学园",
+            "school_year": "高中三年级",
+            "horoscope": "天秤座",
+            "instrument": "Roland FA-08、Roland AX-Synth",
+            "band": "Roselia"
+          }
+        },
+        "color": [
+          "#3344AA",
+          "#DDDDFF"
+        ],
+        "live": true
+      },
+      {
+        "name": "Hello, Happy World!",
+        "name_text": "hello_happy_world",
+        "member": {
+          "KOKOROTSURUMAKI": {
+            "name": "弦卷こころ",
+            "name_local": "弦卷心",
+            "cv": ["伊藤美来"],
+            "cv_local": ["伊藤美来"],
+            "version": 3,
+            "part": "Vo.",
+            "romaji": "KOKORO TSURUMAKI",
+            "birthday": "8/8",
+            "birthday_str": "0808",
+            "color": [
+              "#FFEE22"
+            ],
+            "school": "花咲川女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "狮子座",
+            "instrument": "",
+            "band": "Hello, Happy World!"
+          },
+          "KAORUSETA": {
+            "name": "瀬田薫",
+            "name_local": "濑田薰",
+            "cv": ["田所あずさ"],
+            "version": 3,
+            "cv_local": ["田所梓"],
+            "part": "Gt.",
+            "romaji": "KAORU SETA",
+            "birthday": "2/28",
+            "birthday_str": "0228",
+            "color": [
+              "#AA33CC"
+            ],
+            "school": "羽丘女子学园",
+            "school_year": "高中三年级",
+            "horoscope": "双鱼座",
+            "instrument": "",
+            "band": "Hello, Happy World!"
+          },
+          "HAGUMIKITAZAWA": {
+            "name": "北沢 はぐみ",
+            "name_local": "北泽育美",
+            "cv": ["吉田有里"],
+            "version": 3,
+            "cv_local": ["吉田有里"],
+            "part": "Ba.",
+            "romaji": "HAGUMI KITAZAWA",
+            "birthday": "7/30",
+            "birthday_str": "0730",
+            "color": [
+              "#FF9922"
+            ],
+            "school": "花咲川女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "狮子座",
+            "instrument": "Rickenbacker 4003 Bass",
+            "band": "Hello, Happy World!"
+          },
+          "KANONMATSUBARA": {
+            "name": "松原 花音",
+            "name_local": "松原花音",
+            "cv": ["豊田萌絵"],
+            "version": 3,
+            "cv_local": ["丰田萌绘"],
+            "part": "Dr.",
+            "romaji": "KANON MATSUBARA",
+            "birthday": "5/11",
+            "birthday_str": "0511",
+            "color": [
+              "#44DDFF"
+            ],
+            "school": "花咲川女子学园",
+            "school_year": "高中三年级",
+            "horoscope": "金牛座",
+            "instrument": "",
+            "band": "Hello, Happy World!"
+          },
+          "MISAKIOKUSAWA": {
+            "name": "奥沢 美咲 / ミッシェル",
+            "name_local": "奥泽美咲/米歇尔",
+            "cv": ["黒沢ともよ"],
+            "cv_local": ["黑泽朋世"],
+            "version": 3,
+            "part": "DJ",
+            "romaji": "MISAKI OKUSAWA / MICHELLE",
+            "birthday": "10/1",
+            "birthday_str": "1001",
+            "color": [
+              "#006599",
+              "#DD33CC"
+            ],
+            "school": "花咲川女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "天秤座",
+            "instrument": "Roland FA-08、Roland AX-Synth",
+            "band": "Hello, Happy World!"
+          }
+        },
+        "color": [
+          "#FFDD00",
+          "#FFFFDD"
+        ],
+        "live": false
+      },
+      {
+        "name": "Morfonica",
+        "name_text": "morfonica",
+        "member": {
+          "MASHIROKURATA": {
+            "name": "倉田 ましろ",
+            "name_local": "仓田真白",
+            "cv": ["進藤 あまね"],
+            "version": 2,
+            "cv_local": ["进藤天音"],
+            "part": "Vo.",
+            "romaji": "MASHIRO KURATA",
+            "birthday": "2/19",
+            "birthday_str": "0219",
+            "color": [
+              "#6677CC"
+            ],
+            "school": "月之森女子学园",
+            "school_year": "高中一年级",
+            "horoscope": "双鱼座",
+            "instrument": "",
+            "band": "Morfonica"
+          },
+          "TOKOKIRIGAYA": {
+            "name": "桐ケ谷 透子",
+            "name_local": "桐谷透子",
+            "cv": ["直田 姫奈"],
+            "cv_local": ["直田姬奈"],
+            "part": "Gt.",
+            "romaji": "TOKO KIRIGAYA",
+            "version": 2,
+            "birthday": "12/16",
+            "birthday_str": "1216",
+            "color": [
+              "#EE6666"
+            ],
+            "school": "月之森女子学园",
+            "school_year": "高中一年级",
+            "horoscope": "射手座",
+            "instrument": "",
+            "band": "Morfonica"
+          },
+          "NANAMIHIROMACHI": {
+            "name": "広町 七深",
+            "name_local": "广町七深",
+            "cv": ["西尾 夕香"],
+            "cv_local": ["西尾夕香"],
+            "part": "Ba.",
+            "romaji": "NANAMI HIROMACHI",
+            "birthday": "6/16",
+            "version": 2,
+            "birthday_str": "0616",
+            "color": [
+              "#EE7744"
+            ],
+            "school": "月之森女子学园",
+            "school_year": "高中一年级",
+            "horoscope": "双子座",
+            "instrument": "",
+            "band": "Morfonica"
+          },
+          "TSUKUSHIFUTABA": {
+            "name": "二葉 つくし",
+            "name_local": "二叶筑紫",
+            "cv": ["mika"],
+            "cv_local": ["mika"],
+            "part": "Dr.",
+            "version": 2,
+            "romaji": "TSUKUSHI FUTABA",
+            "birthday": "9/15",
+            "birthday_str": "0915",
+            "color": [
+              "#EE7788"
+            ],
+            "school": "月之森女子学园",
+            "school_year": "高中一年级",
+            "horoscope": "处女座",
+            "instrument": "",
+            "band": "Morfonica"
+          },
+          "RUIYASHIO": {
+            "name": "八潮 瑠唯",
+            "name_local": "八潮瑠唯",
+            "cv": ["Ayasa"],
+            "cv_local": ["Ayasa"],
+            "version": 2,
+            "part": "Vn.",
+            "romaji": "RUI YASHIO",
+            "birthday": "11/19",
+            "birthday_str": "1119",
+            "color": [
+              "#669988"
+            ],
+            "school": "月之森女子学园",
+            "school_year": "高中一年级",
+            "horoscope": "天蝎座",
+            "instrument": "",
+            "band": "Morfonica"
+          }
+        },
+        "color": [
+          "#33AAFF",
+          "#D1ECFF"
+        ],
+        "live": true
+      },
+      {
+        "name": "RAISE A SUILEN",
+        "name_text": "raise_a_suilen",
+        "member": {
+          "REIWAKANA": {
+            "name": "レイヤ",
+            "name_local": "LAYER",
+            "real_name": "和奏 レイ",
+            "version": 2,
+            "real_name_local": "和奏瑞依",
+            "cv": ["Raychell"],
+            "cv_local": ["Raychell"],
+            "part": "Ba.&Vo.",
+            "romaji": "REI WAKANA",
+            "birthday": "1/13",
+            "birthday_str": "0113",
+            "color": [
+              "#CC0000"
+            ],
+            "school": "都立艺术学院高校",
+            "school_year": "高中二年级",
+            "horoscope": "摩羯座",
+            "instrument": "Spector EURO 4 LX RAS LAYER",
+            "band": "RAISE A SUILEN"
+          },
+          "ROKKAASAHI": {
+            "name": "ロック",
+            "name_local": "LOCK",
+            "real_name": "朝日 六花",
+            "real_name_local": "朝日六花",
+            "version": 2,
+            "cv": ["小原 莉子"],
+            "cv_local": ["小原莉子"],
+            "part": "Gt.",
+            "romaji": "ROKKA ASAHI",
+            "birthday": "7/17",
+            "birthday_str": "0717",
+            "color": [
+              "#AAEE22"
+            ],
+            "school": "羽丘女子学院",
+            "school_year": "高中一年级",
+            "horoscope": "巨蟹座",
+            "instrument": "strandberg* Boden Original 6 Blue、strandberg* Boden J6 RAS LOCK",
+            "band": "RAISE A SUILEN"
+          },
+          "MASUKISATO": {
+            "name": "マスキング",
+            "name_local": "MASKING",
+            "real_name": "佐藤 ますき",
+            "real_name_local": "佐藤益木",
+            "version": 2,
+            "cv": ["夏芽"],
+            "cv_local": ["夏芽"],
+            "part": "Dr.",
+            "romaji": "MASUKI SATO",
+            "birthday": "5/12",
+            "birthday_str": "0512",
+            "color": [
+              "#EEBB44"
+            ],
+            "school": "白雪学园",
+            "school_year": "高中二年级",
+            "horoscope": "金牛座",
+            "instrument": "Pearl",
+            "band": "RAISE A SUILEN"
+          },
+          "REONANYUBARA": {
+            "name": "パレオ",
+            "name_local": "PAREO",
+            "real_name": "鳰原 令王那",
+            "real_name_local": "鳰原令王那",
+            "version": 2,
+            "cv": ["倉知 玲鳳"],
+            "cv_local": ["仓知玲凤"],
+            "part": "Key.",
+            "romaji": "REONA NYUBARA",
+            "birthday": "3/25",
+            "birthday_str": "0325",
+            "color": [
+              "#FF99BB"
+            ],
+            "school": "加茂川中央中学",
+            "school_year": "初中二年级",
+            "horoscope": "白羊座",
+            "instrument": "",
+            "band": "RAISE A SUILEN"
+          },
+          "CHIYUTAMADE": {
+            "name": "チュチュ",
+            "name_local": "CHU²",
+            "real_name": "珠手ちゆ",
+            "version": 2,
+            "real_name_local": "珠手知由",
+            "cv": ["紡木 吏佐"],
+            "cv_local": ["纺木吏佐"],
+            "part": "DJ",
+            "romaji": "CHIYU TAMADE",
+            "birthday": "12/7",
+            "birthday_str": "1207",
+            "color": [
+              "#00BBFF"
+            ],
+            "school": "赛洛西亚女子学校",
+            "school_year": "11th grade（高中二年级）",
+            "horoscope": "射手座",
+            "instrument": "",
+            "band": "RAISE A SUILEN"
+          }
+        },
+        "color": [
+          "#33CCCC",
+          "#8844DD",
+          "#CFF6F6"
+        ],
+        "live": true
+      },
+      {
+        "name": "Glitter*Green",
+        "name_text": "glitter_green",
+        "member": {
+          "YURIUSHIGOME": {
+            "name": "牛込 ゆり",
+            "name_local": "牛込百合",
+            "cv": ["三森 すずこ"],
+            "cv_local": ["三森铃子"],
+            "version": 0,
+            "part": "Gt.&Vo.",
+            "romaji": "YURI USHIGOME",
+            "birthday": "",
+            "birthday_str": "",
+            "color": [],
+            "school": "花咲川女子学园",
+            "school_year": "高中三年级",
+            "horoscope": "",
+            "instrument": "",
+            "band": "Glitter*Green"
+          },
+          "RIIUZAWA": {
+            "name": "鵜沢 りぃ",
+            "name_local": "鹈泽莉依",
+            "cv": ["橘田 いずみ"],
+            "cv_local": ["橘田泉"],
+            "version": 0,
+            "part": "Ba.",
+            "romaji": "RII UZAWA",
+            "birthday": "",
+            "birthday_str": "",
+            "color": [],
+            "school": "花咲川女子学园",
+            "school_year": "高中三年级",
+            "horoscope": "",
+            "instrument": "",
+            "band": "Glitter*Green"
+          },
+          "NANANAWANIBE": {
+            "name": "鰐部 七菜",
+            "name_local": "鳄部七菜",
+            "cv": ["佐々木 未来"],
+            "cv_local": ["佐佐木未来"],
+            "version": 0,
+            "part": "Key.",
+            "romaji": "NANANA WANIBE",
+            "birthday": "",
+            "birthday_str": "",
+            "color": [],
+            "school": "花咲川女子学园",
+            "school_year": "高中三年级",
+            "horoscope": "",
+            "instrument": "",
+            "band": "Glitter*Green"
+          },
+          "HINAKONIJIKKI": {
+            "name": "二十騎 ひなこ",
+            "name_local": "二十骑雏子",
+            "cv": ["徳井 青空"],
+            "cv_local": ["德井青空"],
+            "version": 0,
+            "part": "Dr.",
+            "romaji": "HINAKO NIJIKKI",
+            "birthday": "",
+            "birthday_str": "",
+            "color": [],
+            "school": "花咲川女子学园",
+            "school_year": "高中三年级",
+            "horoscope": "",
+            "instrument": "",
+            "band": "Glitter*Green"
+          }
+        },
+        "color": ["#01DFA5"],
+        "live": false
+      },
+      {
+        "name": "CHiSPA",
+        "name_text": "chispa",
+        "member": {
+          "NATSUKIUMINO": {
+            "name": "海野 夏希",
+            "name_local": "海野夏希",
+            "cv": ["福圓 美里"],
+            "cv_local": ["福圆美里"],
+            "version": 0,
+            "part": "Gt.&Vo.",
+            "romaji": "NATSUKI UMINO",
+            "birthday": "",
+            "birthday_str": "",
+            "color": [],
+            "school": "花咲川女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "",
+            "instrument": "",
+            "band": "CHiSPA"
+          },
+          "FUMIKAMORI": {
+            "name": "森 文華",
+            "name_local": "森文华",
+            "cv": ["朝日奈 丸佳"],
+            "cv_local": ["朝日奈丸佳"],
+            "version": 0,
+            "part": "Ba.",
+            "romaji": "FUMIKA MORI",
+            "birthday": "",
+            "birthday_str": "",
+            "color": [],
+            "school": "花咲川女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "",
+            "instrument": "",
+            "band": "CHiSPA"
+          },
+          "MAYUKAWABATA": {
+            "name": "川端 真結",
+            "name_local": "川端真结",
+            "cv": ["本泉 莉奈"],
+            "cv_local": ["本泉莉奈"],
+            "version": 0,
+            "part": "Key.",
+            "romaji": "MAYU KAWABATA",
+            "birthday": "",
+            "birthday_str": "",
+            "color": [],
+            "school": "花咲川女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "",
+            "instrument": "",
+            "band": "CHiSPA"
+          },
+          "TAIKOSATOMI": {
+            "name": "大湖 里実",
+            "name_local": "大湖里实",
+            "cv": ["南 早紀"],
+            "cv_local": ["南早纪"],
+            "version": 0,
+            "part": "Dr.",
+            "romaji": "TAIKO SATOMI",
+            "birthday": "",
+            "birthday_str": "",
+            "color": [],
+            "school": "花咲川女子学园",
+            "school_year": "高中二年级",
+            "horoscope": "",
+            "instrument": "",
+            "band": "CHiSPA"
+          }
+        },
+        "color": ["#000000"],
+        "live": false
+      },
+      {
+        "name": "MyGO!!!!!",
+        "name_text": "mygo",
+        "member": {
+          "TOMORI": {
+            "name": "高松燈",
+            "name_local": "高松灯",
+            "cv": ["羊宮妃那"],
+            "cv_local": ["羊宫妃那"],
+            "part": "Vo.",
+            "romaji": "TOMORI",
+            "birthday": "11/22",
+            "birthday_str": "1122",
+            "version": 0,
+            "color": [
+              "#77BADD"
+            ],
+            "school": "",
+            "school_year": "",
+            "horoscope": "天蝎座",
+            "instrument": "",
+            "band": "MyGO!!!!!"
+          },
+          "ANON": {
+            "name": "千早愛音",
+            "name_local": "千早爱音",
+            "cv": ["立石凛"],
+            "cv_local": ["立石凛"],
+            "part": "Gt.",
+            "romaji": "ANON",
+            "birthday": "9/8",
+            "birthday_str": "0908",
+            "version": 0,
+            "color": [
+              "#FFA7B9"
+            ],
+            "school": "",
+            "school_year": "",
+            "horoscope": "处女座",
+            "instrument": "ESP ULTRATONE Anon Custom (See Thru Surf Green)",
+            "band": "MyGO!!!!!"
+          },
+          "RANA": {
+            "name": "要楽奈",
+            "name_local": "要乐奈",
+            "cv": ["青木陽菜"],
+            "cv_local": ["青木阳菜"],
+            "part": "Gt.",
+            "romaji": "RANA",
+            "birthday": "2/22",
+            "birthday_str": "0222",
+            "version": 0,
+            "color": [
+              "#00AA9A"
+            ],
+            "school": "",
+            "school_year": "",
+            "horoscope": "双鱼座",
+            "instrument": "ESP POTBELLY Rāna Custom (Distressed See Thru Wine Red)",
+            "band": "MyGO!!!!!"
+          },
+          "SOYO": {
+            "name": "長崎そよ",
+            "name_local": "长崎素世",
+            "cv": ["小日向美香"],
+            "cv_local": ["小日向美香"],
+            "part": "Ba.",
+            "romaji": "SOYO",
+            "birthday": "5/27",
+            "birthday_str": "0527",
+            "version": 0,
+            "color": [
+              "#FFDE88"
+            ],
+            "school": "",
+            "school_year": "",
+            "horoscope": "双子座",
+            "instrument": "ESP GB Soyo Custom (3 Tone Sunburst)",
+            "band": "MyGO!!!!!"
+          },
+          "TAKI": {
+            "name": "椎名立希",
+            "name_local": "椎名立希",
+            "cv": ["林鼓子"],
+            "cv_local": ["林鼓子"],
+            "part": "Dr.",
+            "romaji": "TAKI",
+            "birthday": "8/9",
+            "birthday_str": "0809",
+            "version": 0,
+            "color": [
+              "#A966BA"
+            ],
+            "school": "",
+            "school_year": "",
+            "horoscope": "狮子座",
+            "instrument": "Pearl Masters Maple Gum (Chrome Contrail)",
+            "band": "MyGO!!!!!"
+          }
+        },
+        "color": ["#0B88BB"],
+        "live": true
+      },
+      {
+        "name": "夢ノ結唱",
+        "name_text": "yumenokessho",
+        "member": {
+          "POPY": {
+            "name": "POPY",
+            "name_local": "POPY",
+            "cv": [],
+            "cv_local": [],
+            "version": 0,
+            "romaji": "POPY",
+            "birthday": "",
+            "color": []
+          },
+          "ROSE": {
+            "name": "ROSE",
+            "name_local": "ROSE",
+            "cv": [],
+            "cv_local": [],
+            "version": 0,
+            "romaji": "ROSE",
+            "birthday": "",
+            "color": []
+          }
+        },
+        "color": ["#000000"],
+        "live": false,
+        "hide": true
+      },
+      {
+        "name": "Ave Mujica",
+        "name_text": "ave_mujica",
+        "member": {},
+        "color": ["#7A0100"],
+        "live": false,
+        "hide": true
+      }
+    ]
+  },
+  "gmt": 9,
+  "language": "zh_cn"
+}
