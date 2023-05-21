@@ -561,7 +561,8 @@
         "STAY GLOW - Disc 2",
         "無路矢",
         "最強☆ソング",
-        "神さま、バカ"
+        "神さま、バカ",
+        "Mas?uerade Rhapsody Re?uest"
     ],
     "songs": [
         {
@@ -18374,6 +18375,17 @@
             "tags": [],
             "date": "2023-05-07",
             "duration": 213.7861224489796
+        },
+        {
+            "name": "Mas？uerade Rhapsody Re？uest",
+            "romaji": "",
+            "band": 12,
+            "artist": [],
+            "order": 1,
+            "album": 158,
+            "tags": [],
+            "date": "2023-05-22",
+            "duration": 242.76
         }
     ]
 }
