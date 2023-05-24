@@ -20,7 +20,6 @@ En: If can't read Chinese, please use translator.
   - 歌词文本可能涉及版权问题，目前不会增加到本仓库中
   - 收录歌曲包括已加入手游的七大团、Glitter*Green、CHiSPA、MyGO!!!!!、Ave Mujica、夢ノ結唱,  不包含从男邦（ARGONAVIS）
   - 默认 `locale` 为 `ja_jp`
-  - 可以前往 <https://bangdream.fun/dev/musictool> 查看和编辑最新文件
 
 ## 授权
 
