@@ -562,7 +562,10 @@
         "無路矢",
         "最強☆ソング",
         "神さま、バカ",
-        "Mas？uerade Rhapsody Re？uest"
+        "Mas？uerade Rhapsody Re？uest",
+        "青春 To Be Continued",
+        "Pastel à la mode - Disc 1",
+        "Pastel à la mode - Disc 2"
     ],
     "songs": [
         {
@@ -18386,6 +18389,499 @@
             "tags": [],
             "date": "2023-05-22",
             "duration": 242.76
+        },
+        {
+            "name": "青春 To Be Continued",
+            "romaji": "",
+            "band": 0,
+            "artist": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "order": 1,
+            "album": 159,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 256.392
+        },
+        {
+            "name": "Future Place",
+            "romaji": "",
+            "band": 0,
+            "artist": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "order": 2,
+            "album": 159,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 232.992
+        },
+        {
+            "name": "大好き！",
+            "romaji": "",
+            "band": 0,
+            "artist": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "order": 3,
+            "album": 159,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 247.512
+        },
+        {
+            "name": "Five Letters",
+            "romaji": "",
+            "band": 0,
+            "artist": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "order": 4,
+            "album": 159,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 249.264
+        },
+        {
+            "name": "最強☆ソング",
+            "romaji": "",
+            "band": 0,
+            "artist": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "order": 5,
+            "album": 159,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 255.168
+        },
+        {
+            "name": "RiNG A BELL",
+            "romaji": "",
+            "band": 0,
+            "artist": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "order": 6,
+            "album": 159,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 261.096
+        },
+        {
+            "name": "はなまる◎アンダンテ",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 1,
+            "album": 160,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 226.512
+        },
+        {
+            "name": "パスパレボリューションず☆",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 2,
+            "album": 160,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 231.36
+        },
+        {
+            "name": "SURVIVOR ねばーぎぶあっぷ！",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 3,
+            "album": 160,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 248.664
+        },
+        {
+            "name": "Wonderland Girl",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 4,
+            "album": 160,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 271.08
+        },
+        {
+            "name": "ゼッタイ宣言～Recital～",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 5,
+            "album": 160,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 241.56
+        },
+        {
+            "name": "ぎゅっDAYS♪",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 6,
+            "album": 160,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 251.664
+        },
+        {
+            "name": "Wonderful Sweet!",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 7,
+            "album": 160,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 247.44
+        },
+        {
+            "name": "るんっ♪てぃてぃー！",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 8,
+            "album": 160,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 229.296
+        },
+        {
+            "name": "パッパレ☆人生！バーン万歳！",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 9,
+            "album": 160,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 239.568
+        },
+        {
+            "name": "Brand new Pastel Road!",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 10,
+            "album": 160,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 255.528
+        },
+        {
+            "name": "あこがれacross",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 11,
+            "album": 160,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 234.6
+        },
+        {
+            "name": "ハレハレ☆フォーチュン",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 12,
+            "album": 160,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 270.504
+        },
+        {
+            "name": "ハナヒバナ",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 13,
+            "album": 160,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 274.224
+        },
+        {
+            "name": "そばかす",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 1,
+            "album": 161,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 250.608
+        },
+        {
+            "name": "気まぐれロマンティック",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 2,
+            "album": 161,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 243.792
+        },
+        {
+            "name": "ドリームパレード",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 3,
+            "album": 161,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 234.744
+        },
+        {
+            "name": "ラムのラブソング",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 4,
+            "album": 161,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 162.432
+        },
+        {
+            "name": "DANCE! おジャ魔女",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 5,
+            "album": 161,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 196.536
+        },
+        {
+            "name": "DISCOTHEQUE",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 6,
+            "album": 161,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 243.312
+        },
+        {
+            "name": "ゆりゆららららゆるゆり大事件",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 7,
+            "album": 161,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 229.296
+        },
+        {
+            "name": "SAKURAスキップ",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 8,
+            "album": 161,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 228.864
+        },
+        {
+            "name": "Stay Alive",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 9,
+            "album": 161,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 264
+        },
+        {
+            "name": "秘密の扉から会いにきて",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 10,
+            "album": 161,
+            "tags": [],
+            "date": "2023-05-31",
+            "duration": 218.64
         }
     ]
 }
