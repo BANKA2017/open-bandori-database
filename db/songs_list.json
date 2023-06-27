@@ -568,7 +568,8 @@
         "Pastel à la mode - Disc 2",
         "-N-E-M-E-S-I-S-",
         "SMILE ON PARADE - Disc 1",
-        "SMILE ON PARADE - Disc 2"
+        "SMILE ON PARADE - Disc 2",
+        "キミを れっつ・はぶ・ふぁん♪"
     ],
     "songs": [
         {
@@ -19327,6 +19328,23 @@
             "tags": [],
             "date": "2023-06-28",
             "duration": 156.024
+        },
+        {
+            "name": "キミを れっつ・はぶ・ふぁん♪",
+            "romaji": "",
+            "band": 4,
+            "artist": [
+                20,
+                21,
+                22,
+                23,
+                24
+            ],
+            "order": 1,
+            "album": 165,
+            "tags": [],
+            "date": "2023-06-28",
+            "duration": 235.04979591836735
         }
     ]
 }
