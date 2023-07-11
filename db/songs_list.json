@@ -571,7 +571,9 @@
         "SMILE ON PARADE - Disc 2",
         "キミを れっつ・はぶ・ふぁん♪",
         "壱雫空",
-        "栞"
+        "栞",
+        "Infructescence",
+        "Blütenstand"
     ],
     "songs": [
         {
@@ -19381,6 +19383,357 @@
             "tags": [],
             "date": "2023-06-30",
             "duration": 266.448
+        },
+        {
+            "name": "コンペイトウさん過激派",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                48
+            ],
+            "order": 1,
+            "album": 168,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 123.024
+        },
+        {
+            "name": "Be born",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                48
+            ],
+            "order": 2,
+            "album": 168,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 206.136
+        },
+        {
+            "name": "明晰メモリー",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                48
+            ],
+            "order": 3,
+            "album": 168,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 192.576
+        },
+        {
+            "name": "だって、キラキラ。",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                48
+            ],
+            "order": 4,
+            "album": 168,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 166.008
+        },
+        {
+            "name": "ラビリンス",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                48
+            ],
+            "order": 5,
+            "album": 168,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 214.224
+        },
+        {
+            "name": "バズらない愛",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                48
+            ],
+            "order": 6,
+            "album": 168,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 159.024
+        },
+        {
+            "name": "天使俱楽部",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                48
+            ],
+            "order": 7,
+            "album": 168,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 174.576
+        },
+        {
+            "name": "チャーリイ",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                48
+            ],
+            "order": 8,
+            "album": 168,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 169.824
+        },
+        {
+            "name": "alternative",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                48
+            ],
+            "order": 9,
+            "album": 168,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 200.592
+        },
+        {
+            "name": "LC",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                48
+            ],
+            "order": 10,
+            "album": 168,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 172.512
+        },
+        {
+            "name": "怪電話",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                48
+            ],
+            "order": 11,
+            "album": 168,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 342.432
+        },
+        {
+            "name": "Freak Out Hr.",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                48
+            ],
+            "order": 12,
+            "album": 168,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 190.224
+        },
+        {
+            "name": "花呼ぶ声",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                48
+            ],
+            "order": 13,
+            "album": 168,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 201.36
+        },
+        {
+            "name": "私色きらめき日和",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                48
+            ],
+            "order": 15,
+            "album": 168,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 116.664
+        },
+        {
+            "name": "Starry Phrase!",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                48
+            ],
+            "order": 16,
+            "album": 168,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 120.336
+        },
+        {
+            "name": "役にすがる",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                49
+            ],
+            "order": 1,
+            "album": 169,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 213.408
+        },
+        {
+            "name": "変身シンドローム",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                49
+            ],
+            "order": 2,
+            "album": 169,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 191.76
+        },
+        {
+            "name": "エトス",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                49
+            ],
+            "order": 3,
+            "album": 169,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 207.96
+        },
+        {
+            "name": "シテキセイサイ",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                49
+            ],
+            "order": 4,
+            "album": 169,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 284.232
+        },
+        {
+            "name": "SUSHI-GO-ROUND",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                49
+            ],
+            "order": 5,
+            "album": 169,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 190.8
+        },
+        {
+            "name": "グッド・バイ",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                49
+            ],
+            "order": 6,
+            "album": 169,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 141.192
+        },
+        {
+            "name": "I no rockstar",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                49
+            ],
+            "order": 7,
+            "album": 169,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 230.64
+        },
+        {
+            "name": "禁略フォビドゥン",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                49
+            ],
+            "order": 8,
+            "album": 169,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 147.24
+        },
+        {
+            "name": "ユーフォリア",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                49
+            ],
+            "order": 9,
+            "album": 169,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 201.696
+        },
+        {
+            "name": "怪電話",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                49
+            ],
+            "order": 10,
+            "album": 169,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 342.432
+        },
+        {
+            "name": "Freak Out Hr.",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                49
+            ],
+            "order": 11,
+            "album": 169,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 190.2
+        },
+        {
+            "name": "花呼ぶ声",
+            "romaji": "",
+            "band": 11,
+            "artist": [
+                49
+            ],
+            "order": 12,
+            "album": 169,
+            "tags": [],
+            "date": "2023-07-12",
+            "duration": 201.408
         }
     ]
 }
