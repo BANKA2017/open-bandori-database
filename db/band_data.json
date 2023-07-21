@@ -12,7 +12,8 @@
       "CHiSPA",
       "MyGO!!!!!",
       "夢ノ結唱",
-      "Ave Mujica"
+      "Ave Mujica",
+      "sumimi"
     ],
     "list": [
       {
@@ -1060,6 +1061,47 @@
         "color": ["#7A0100"],
         "live": false,
         "hide": true
+      },{
+        "name": "sumimi",
+        "name_text": "sumimi",
+        "member": {
+          "UIKAMISUMI": {
+            "name": "三角初華",
+            "name_local": "三角初华",
+            "cv": ["佐々木李子"],
+            "cv_local": ["佐佐木李子"],
+            "version": 0,
+            "part": "",
+            "romaji": "UIKA MISUMI",
+            "birthday": "",
+            "birthday_str": "",
+            "color": [],
+            "school": "",
+            "school_year": "",
+            "horoscope": "",
+            "instrument": "",
+            "band": "sumimi"
+          },
+          "MANASUMIDA": {
+            "name": "純田まな",
+            "name_local": "纯田真奈",
+            "cv": ["反田葉月"],
+            "cv_local": ["反田叶月"],
+            "version": 0,
+            "part": "",
+            "romaji": "MANA SUMIDA",
+            "birthday": "",
+            "birthday_str": "",
+            "color": [],
+            "school": "",
+            "school_year": "",
+            "horoscope": "",
+            "instrument": "",
+            "band": "sumimi"
+          }
+        },
+        "color": ["#000000"],
+        "live": false
       }
     ]
   },

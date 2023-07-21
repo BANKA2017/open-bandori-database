@@ -347,6 +347,20 @@
             "name": "ROSE",
             "name_romaji": "ROSE",
             "cv": []
+        },
+        {
+            "name": "三角初華",
+            "name_romaji": "UIKA MISUMI",
+            "cv": [
+                "佐々木李子"
+            ]
+        },
+        {
+            "name": "純田まな",
+            "name_romaji": "MANA SUMIDA",
+            "cv": [
+                "反田葉月"
+            ]
         }
     ],
     "band_list": [
@@ -401,6 +415,10 @@
         {
             "band": "Ave Mujica",
             "band_romaji": "ave_mujica"
+        },
+        {
+            "band": "sumimi",
+            "band_romaji": "sumimi"
         }
     ],
     "album_list": [
@@ -573,7 +591,8 @@
         "壱雫空",
         "栞",
         "Infructescence",
-        "Blütenstand"
+        "Blütenstand",
+        "Here, the world!"
     ],
     "songs": [
         {
@@ -19383,6 +19402,20 @@
             "tags": [],
             "date": "2023-06-30",
             "duration": 266.448
+        },
+        {
+            "name": "sumimi - Here, the world!",
+            "romaji": "",
+            "band": 13,
+            "artist": [
+                50,
+                51
+            ],
+            "order": 1,
+            "album": 170,
+            "tags": [],
+            "date": "2023-06-30",
+            "duration": 263.28
         },
         {
             "name": "コンペイトウさん過激派",
