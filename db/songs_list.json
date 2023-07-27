@@ -592,7 +592,8 @@
         "栞",
         "Infructescence",
         "Blütenstand",
-        "Here, the world!"
+        "Here, the world!",
+        "碧天伴走"
     ],
     "songs": [
         {
@@ -19767,6 +19768,23 @@
             "tags": [],
             "date": "2023-07-12",
             "duration": 201.408
+        },
+        {
+            "name": "碧天伴走",
+            "romaji": "",
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "order": 1,
+            "album": 171,
+            "tags": [],
+            "date": "2023-07-28",
+            "duration": 218.904
         }
     ]
 }
