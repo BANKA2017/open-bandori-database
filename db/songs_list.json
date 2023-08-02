@@ -593,7 +593,11 @@
         "Infructescence",
         "Blütenstand",
         "Here, the world!",
-        "碧天伴走"
+        "碧天伴走",
+        "Punchline Halloween!!!",
+        "Made My Day",
+        "IGNITE GLOW",
+        "Freedom"
     ],
     "songs": [
         {
@@ -19785,6 +19789,74 @@
             "tags": [],
             "date": "2023-07-28",
             "duration": 218.904
+        },
+        {
+            "name": "Punchline Halloween!!!",
+            "romaji": "",
+            "band": 1,
+            "artist": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "order": 1,
+            "album": 172,
+            "tags": [],
+            "date": "2023-08-03",
+            "duration": 234.192
+        },
+        {
+            "name": "Made My Day",
+            "romaji": "",
+            "band": 1,
+            "artist": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "order": 1,
+            "album": 173,
+            "tags": [],
+            "date": "2023-08-03",
+            "duration": 243.264
+        },
+        {
+            "name": "IGNITE GLOW",
+            "romaji": "",
+            "band": 1,
+            "artist": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "order": 1,
+            "album": 174,
+            "tags": [],
+            "date": "2023-08-03",
+            "duration": 267.024
+        },
+        {
+            "name": "Freedom",
+            "romaji": "",
+            "band": 7,
+            "artist": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "order": 1,
+            "album": 175,
+            "tags": [],
+            "date": "2023-08-03",
+            "duration": 264.6
         }
     ]
 }
