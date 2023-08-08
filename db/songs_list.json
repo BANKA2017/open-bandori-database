@@ -588,7 +588,7 @@
         "SMILE ON PARADE - Disc 1",
         "SMILE ON PARADE - Disc 2",
         "キミを れっつ・はぶ・ふぁん♪",
-        "壱雫空",
+        "__hidden__壱雫空",
         "栞",
         "Infructescence",
         "Blütenstand",
@@ -597,7 +597,8 @@
         "Punchline Halloween!!!",
         "Made My Day",
         "IGNITE GLOW",
-        "Freedom"
+        "Freedom",
+        "壱雫空"
     ],
     "songs": [
         {
@@ -19857,6 +19858,108 @@
             "tags": [],
             "date": "2023-08-03",
             "duration": 264.6
+        },
+        {
+            "name": "壱雫空",
+            "romaji": "",
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "order": 1,
+            "album": 176,
+            "tags": [],
+            "date": "2023-08-09",
+            "duration": 191.89551020408163
+        },
+        {
+            "name": "栞",
+            "romaji": "",
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "order": 2,
+            "album": 176,
+            "tags": [],
+            "date": "2023-08-09",
+            "duration": 267.4416326530612
+        },
+        {
+            "name": "焚音打",
+            "romaji": "",
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "order": 3,
+            "album": 176,
+            "tags": [],
+            "date": "2023-08-09",
+            "duration": 244.95020408163265
+        },
+        {
+            "name": "壱雫空 -Instrumental-",
+            "romaji": "",
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "order": 4,
+            "album": 176,
+            "tags": [],
+            "date": "2023-08-09",
+            "duration": 189.96244897959184
+        },
+        {
+            "name": "栞 -Instrumental-",
+            "romaji": "",
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "order": 5,
+            "album": 176,
+            "tags": [],
+            "date": "2023-08-09",
+            "duration": 266.10938775510203
+        },
+        {
+            "name": "焚音打 -Instrumental-",
+            "romaji": "",
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "order": 6,
+            "album": 176,
+            "tags": [],
+            "date": "2023-08-09",
+            "duration": 244.27102040816325
         }
     ]
 }
