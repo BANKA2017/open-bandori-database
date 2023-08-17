@@ -599,7 +599,8 @@
         "IGNITE GLOW",
         "Freedom",
         "壱雫空",
-        "Sunlit Musical"
+        "Sunlit Musical",
+        "詩超絆"
     ],
     "songs": [
         {
@@ -19978,6 +19979,23 @@
             "tags": [],
             "date": "2023-08-11",
             "duration": 232.344
+        },
+        {
+            "name": "詩超絆",
+            "romaji": "",
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "order": 1,
+            "album": 178,
+            "tags": [],
+            "date": "2023-08-18",
+            "duration": 237.24
         }
     ]
 }
