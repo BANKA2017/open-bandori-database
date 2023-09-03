@@ -602,7 +602,11 @@
         "Sunlit Musical",
         "詩超絆",
         "迷路日々",
-        "燦々"
+        "燦々",
+        "新しい季節に",
+        "Call the shots",
+        "DANCING DARING",
+        "Angel's Ladder"
     ],
     "songs": [
         {
@@ -20032,6 +20036,74 @@
             "tags": [],
             "date": "2023-09-01",
             "duration": 195.144
+        },
+        {
+            "name": "新しい季節に",
+            "romaji": "",
+            "band": 0,
+            "artist": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "order": 1,
+            "album": 181,
+            "tags": [],
+            "date": "2023-09-04",
+            "duration": 211.56
+        },
+        {
+            "name": "Call the shots",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 1,
+            "album": 182,
+            "tags": [],
+            "date": "2023-09-04",
+            "duration": 266.04
+        },
+        {
+            "name": "DANCING DARING",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 1,
+            "album": 183,
+            "tags": [],
+            "date": "2023-09-04",
+            "duration": 215.136
+        },
+        {
+            "name": "Angel's Ladder",
+            "romaji": "",
+            "band": 5,
+            "artist": [
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "order": 1,
+            "album": 184,
+            "tags": [],
+            "date": "2023-09-04",
+            "duration": 253.44
         }
     ]
 }
