@@ -608,7 +608,8 @@
         "DANCING DARING",
         "Angel's Ladder",
         "BanG Dream! ガールズバンドパーティ！ カバーコレクション Vol.8 - Disc 1",
-        "BanG Dream! ガールズバンドパーティ！ カバーコレクション Vol.8 - Disc 2"
+        "BanG Dream! ガールズバンドパーティ！ カバーコレクション Vol.8 - Disc 2",
+        "Alea jacta est"
     ],
     "songs": [
         {
@@ -20583,6 +20584,72 @@
             "tags": [],
             "date": "2023-09-06",
             "duration": 207.6473469387755
+        },
+        {
+            "name": "黒のバースデイ",
+            "romaji": "",
+            "band": 12,
+            "artist": [],
+            "order": 1,
+            "album": 187,
+            "tags": [],
+            "date": "2023-09-13",
+            "duration": 226.92
+        },
+        {
+            "name": "ふたつの月 ～Deep Into The Forest～",
+            "romaji": "",
+            "band": 12,
+            "artist": [],
+            "order": 2,
+            "album": 187,
+            "tags": [],
+            "date": "2023-09-13",
+            "duration": 296.352
+        },
+        {
+            "name": "Choir ‘S’ Choir",
+            "romaji": "",
+            "band": 12,
+            "artist": [],
+            "order": 3,
+            "album": 187,
+            "tags": [],
+            "date": "2023-09-13",
+            "duration": 278.904
+        },
+        {
+            "name": "神さま、バカ",
+            "romaji": "",
+            "band": 12,
+            "artist": [],
+            "order": 4,
+            "album": 187,
+            "tags": [],
+            "date": "2023-09-13",
+            "duration": 214.8
+        },
+        {
+            "name": "Mas？uerade Rhapsody Re？uest",
+            "romaji": "",
+            "band": 12,
+            "artist": [],
+            "order": 5,
+            "album": 187,
+            "tags": [],
+            "date": "2023-09-13",
+            "duration": 242.736
+        },
+        {
+            "name": "Ave Mujica",
+            "romaji": "",
+            "band": 12,
+            "artist": [],
+            "order": 6,
+            "album": 187,
+            "tags": [],
+            "date": "2023-09-13",
+            "duration": 255.984
         }
     ]
 }
