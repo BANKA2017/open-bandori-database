@@ -609,7 +609,8 @@
         "Angel's Ladder",
         "BanG Dream! ガールズバンドパーティ！ カバーコレクション Vol.8 - Disc 1",
         "BanG Dream! ガールズバンドパーティ！ カバーコレクション Vol.8 - Disc 2",
-        "Alea jacta est"
+        "Alea jacta est",
+        "Apocalypse"
     ],
     "songs": [
         {
@@ -20650,6 +20651,23 @@
             "tags": [],
             "date": "2023-09-13",
             "duration": 255.984
+        },
+        {
+            "name": "Apocalypse",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 1,
+            "album": 188,
+            "tags": [],
+            "date": "2023-09-22",
+            "duration": 252.624
         }
     ]
 }
