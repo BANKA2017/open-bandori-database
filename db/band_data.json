@@ -926,16 +926,16 @@
         "name": "MyGO!!!!!",
         "name_text": "mygo",
         "member": {
-          "TOMORI": {
+          "TOMORITAKAMATSU": {
             "name": "高松燈",
             "name_local": "高松灯",
             "cv": ["羊宮妃那"],
             "cv_local": ["羊宫妃那"],
             "part": "Vo.",
-            "romaji": "TOMORI",
+            "romaji": "TOMORI TAKAMATSU",
             "birthday": "11/22",
             "birthday_str": "1122",
-            "version": 0,
+            "version": 1,
             "color": [
               "#77BADD"
             ],
@@ -945,16 +945,16 @@
             "instrument": "",
             "band": "MyGO!!!!!"
           },
-          "ANON": {
+          "ANONCHIHAYA": {
             "name": "千早愛音",
             "name_local": "千早爱音",
             "cv": ["立石凛"],
             "cv_local": ["立石凛"],
             "part": "Gt.",
-            "romaji": "ANON",
+            "romaji": "ANON CHIHAYA",
             "birthday": "9/8",
             "birthday_str": "0908",
-            "version": 0,
+            "version": 1,
             "color": [
               "#FFA7B9"
             ],
@@ -964,16 +964,16 @@
             "instrument": "ESP ULTRATONE Anon Custom (See Thru Surf Green)",
             "band": "MyGO!!!!!"
           },
-          "RANA": {
+          "RANAKANAME": {
             "name": "要楽奈",
             "name_local": "要乐奈",
             "cv": ["青木陽菜"],
             "cv_local": ["青木阳菜"],
             "part": "Gt.",
-            "romaji": "RANA",
+            "romaji": "RANA KANAME",
             "birthday": "2/22",
             "birthday_str": "0222",
-            "version": 0,
+            "version": 1,
             "color": [
               "#00AA9A"
             ],
@@ -983,16 +983,16 @@
             "instrument": "ESP POTBELLY Rāna Custom (Distressed See Thru Wine Red)",
             "band": "MyGO!!!!!"
           },
-          "SOYO": {
+          "SOYONAGASAKI": {
             "name": "長崎そよ",
             "name_local": "长崎素世",
             "cv": ["小日向美香"],
             "cv_local": ["小日向美香"],
             "part": "Ba.",
-            "romaji": "SOYO",
+            "romaji": "SOYO NAGASAKI",
             "birthday": "5/27",
             "birthday_str": "0527",
-            "version": 0,
+            "version": 1,
             "color": [
               "#FFDE88"
             ],
@@ -1002,16 +1002,16 @@
             "instrument": "ESP GB Soyo Custom (3 Tone Sunburst)",
             "band": "MyGO!!!!!"
           },
-          "TAKI": {
+          "TAKISHIINA": {
             "name": "椎名立希",
             "name_local": "椎名立希",
             "cv": ["林鼓子"],
             "cv_local": ["林鼓子"],
             "part": "Dr.",
-            "romaji": "TAKI",
+            "romaji": "TAKI SHIINA",
             "birthday": "8/9",
             "birthday_str": "0809",
-            "version": 0,
+            "version": 1,
             "color": [
               "#A966BA"
             ],
