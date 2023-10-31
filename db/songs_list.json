@@ -610,7 +610,8 @@
         "BanG Dream! ガールズバンドパーティ！ カバーコレクション Vol.8 - Disc 1",
         "BanG Dream! ガールズバンドパーティ！ カバーコレクション Vol.8 - Disc 2",
         "Alea jacta est",
-        "Apocalypse"
+        "Apocalypse",
+        "REVELATION"
     ],
     "songs": [
         {
@@ -20668,6 +20669,91 @@
             "tags": [],
             "date": "2023-09-22",
             "duration": 252.624
+        },
+        {
+            "name": "Apocalypse",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 1,
+            "album": 189,
+            "tags": [],
+            "date": "2023-11-01",
+            "duration": 252.624
+        },
+        {
+            "name": "TWIN TALE",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 2,
+            "album": 189,
+            "tags": [],
+            "date": "2023-11-01",
+            "duration": 217.536
+        },
+        {
+            "name": "STRAY CERBERUS",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 3,
+            "album": 189,
+            "tags": [],
+            "date": "2023-11-01",
+            "duration": 256.176
+        },
+        {
+            "name": "BERSER-KEY",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 4,
+            "album": 189,
+            "tags": [],
+            "date": "2023-11-01",
+            "duration": 231
+        },
+        {
+            "name": "POLARIS",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 5,
+            "album": 189,
+            "tags": [],
+            "date": "2023-11-01",
+            "duration": 271.68
         }
     ]
 }
