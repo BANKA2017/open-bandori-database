@@ -612,7 +612,8 @@
         "Alea jacta est",
         "Apocalypse",
         "REVELATION",
-        "迷跡波"
+        "迷跡波",
+        "処救生"
     ],
     "songs": [
         {
@@ -20976,6 +20977,23 @@
             "tags": [],
             "date": "2023-11-01",
             "duration": 267.78122448979593
+        },
+        {
+            "name": "処救生",
+            "romaji": "",
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "order": 1,
+            "album": 191,
+            "tags": [],
+            "date": "2023-11-19",
+            "duration": 217.536
         }
     ]
 }
