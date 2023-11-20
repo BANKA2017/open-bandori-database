@@ -1057,10 +1057,115 @@
       {
         "name": "Ave Mujica",
         "name_text": "ave_mujica",
-        "member": {},
-        "color": ["#7A0100"],
-        "live": false,
-        "hide": true
+        "member": {
+          "DOLORIS": {
+            "name": "ドロリス",
+            "name_local": "Doloris",
+            "real_name": "三角 初華",
+            "version": 0,
+            "real_name_local": "三角初华",
+            "cv": ["佐々木李子"],
+            "cv_local": ["佐佐木李子"],
+            "part": "Gt.",
+            "romaji": "UIKA MISUMI",
+            "birthday": "6/26",
+            "birthday_str": "0626",
+            "color": [
+              "#BB9854"
+            ],
+            "school": "花咲川女子学园",
+            "school_year": "高中一年级",
+            "horoscope": "巨蟹座",
+            "instrument": "SCHECTER AR-07 Ave Mujica Proto Model",
+            "band": "Ave Mujica"
+          },
+          "MORTIS": {
+            "name": "モーティス",
+            "name_local": "Mortis",
+            "real_name": "若葉 睦",
+            "real_name_local": "若叶睦",
+            "version": 0,
+            "cv": ["渡瀬 結月"],
+            "cv_local": ["渡濑结月"],
+            "part": "Gt.",
+            "romaji": "MUTSUMI WAKABA",
+            "birthday": "1/14",
+            "birthday_str": "0114",
+            "color": [
+              "#799978"
+            ],
+            "school": "月之森女子学园",
+            "school_year": "高中一年级",
+            "horoscope": "摩羯座",
+            "instrument": "SCHECTER EX-24-7st Ave Mujica Proto Model",
+            "band": "Ave Mujica"
+          },
+          "TIMORIS": {
+            "name": "ティモリス",
+            "name_local": "Timoris",
+            "real_name": "八幡 海鈴",
+            "real_name_local": "八幡海铃",
+            "version": 0,
+            "cv": ["岡田 夢以"],
+            "cv_local": ["冈田梦以"],
+            "part": "Ba.",
+            "romaji": "UMIRI YAHATA",
+            "birthday": "4/7",
+            "birthday_str": "0407",
+            "color": [
+              "#345566"
+            ],
+            "school": "花咲川女子学园",
+            "school_year": "高中一年级",
+            "horoscope": "白羊座",
+            "instrument": "",
+            "band": "Ave Mujica"
+          },
+          "AMORIS": {
+            "name": "アモーリス",
+            "name_local": "Amoris",
+            "real_name": "祐天寺 にゃむ",
+            "real_name_local": "祐天寺若麦",
+            "version": 0,
+            "cv": ["米澤 茜"],
+            "cv_local": ["米泽茜"],
+            "part": "Dr.",
+            "romaji": "NYAMU YUTENJI",
+            "birthday": "6/1",
+            "birthday_str": "0601",
+            "color": [
+              "#AB4378"
+            ],
+            "school": "",
+            "school_year": "",
+            "horoscope": "双子座",
+            "instrument": "",
+            "band": "Ave Mujica"
+          },
+          "OBLIVIONIS": {
+            "name": "オブリビオニス",
+            "name_local": "Oblivionis",
+            "real_name": "豊川 祥子",
+            "version": 0,
+            "real_name_local": "丰川祥子",
+            "cv": ["高尾 奏音"],
+            "cv_local": ["高尾奏音"],
+            "part": "Key.",
+            "romaji": "SAKIKO TOGAWA",
+            "birthday": "2/14",
+            "birthday_str": "0214",
+            "color": [
+              "#7899CC"
+            ],
+            "school": "羽丘女子学园",
+            "school_year": "高中一年级",
+            "horoscope": "宝瓶座",
+            "instrument": "",
+            "band": "Ave Mujica"
+          }
+        },
+        "color": ["#881144"],
+        "live": true
       },{
         "name": "sumimi",
         "name_text": "sumimi",

@@ -361,6 +361,41 @@
             "cv": [
                 "反田葉月"
             ]
+        },
+        {
+            "name": "Doloris",
+            "name_romaji": "UIKA MISUMI",
+            "cv": [
+                "佐々木李子"
+            ]
+        },
+        {
+            "name": "Mortis",
+            "name_romaji": "MUTSUMI WAKABA",
+            "cv": [
+                "渡濑结月"
+            ]
+        },
+        {
+            "name": "Timoris",
+            "name_romaji": "UMIRI YAHATA",
+            "cv": [
+                "冈田梦以"
+            ]
+        },
+        {
+            "name": "Amoris",
+            "name_romaji": "NYAMU YUTENJI",
+            "cv": [
+                "米泽茜"
+            ]
+        },
+        {
+            "name": "Oblivionis",
+            "name_romaji": "SAKIKO TOGAWA",
+            "cv": [
+                "高尾奏音"
+            ]
         }
     ],
     "band_list": [
@@ -613,7 +648,8 @@
         "Apocalypse",
         "REVELATION",
         "迷跡波",
-        "処救生"
+        "処救生",
+        "夢現妄想世界"
     ],
     "songs": [
         {
@@ -17858,7 +17894,13 @@
             "name": "黒のバースデイ",
             "romaji": "",
             "band": 12,
-            "artist": [],
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
             "order": 1,
             "album": 148,
             "tags": [],
@@ -17922,7 +17964,13 @@
             "name": "ふたつの月 ～Deep Into The Forest～",
             "romaji": "",
             "band": 12,
-            "artist": [],
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
             "order": 1,
             "album": 150,
             "tags": [],
@@ -17933,7 +17981,13 @@
             "name": "Choir ‘S’ Choir",
             "romaji": "",
             "band": 12,
-            "artist": [],
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
             "order": 1,
             "album": 151,
             "tags": [],
@@ -18420,7 +18474,13 @@
             "name": "神さま、バカ",
             "romaji": "",
             "band": 12,
-            "artist": [],
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
             "order": 1,
             "album": 157,
             "tags": [],
@@ -18431,7 +18491,13 @@
             "name": "Mas？uerade Rhapsody Re？uest",
             "romaji": "",
             "band": 12,
-            "artist": [],
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
             "order": 1,
             "album": 158,
             "tags": [],
@@ -20593,7 +20659,13 @@
             "name": "黒のバースデイ",
             "romaji": "",
             "band": 12,
-            "artist": [],
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
             "order": 1,
             "album": 187,
             "tags": [],
@@ -20604,7 +20676,13 @@
             "name": "ふたつの月 ～Deep Into The Forest～",
             "romaji": "",
             "band": 12,
-            "artist": [],
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
             "order": 2,
             "album": 187,
             "tags": [],
@@ -20615,7 +20693,13 @@
             "name": "Choir ‘S’ Choir",
             "romaji": "",
             "band": 12,
-            "artist": [],
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
             "order": 3,
             "album": 187,
             "tags": [],
@@ -20626,7 +20710,13 @@
             "name": "神さま、バカ",
             "romaji": "",
             "band": 12,
-            "artist": [],
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
             "order": 4,
             "album": 187,
             "tags": [],
@@ -20637,7 +20727,13 @@
             "name": "Mas？uerade Rhapsody Re？uest",
             "romaji": "",
             "band": 12,
-            "artist": [],
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
             "order": 5,
             "album": 187,
             "tags": [],
@@ -20648,7 +20744,13 @@
             "name": "Ave Mujica",
             "romaji": "",
             "band": 12,
-            "artist": [],
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
             "order": 6,
             "album": 187,
             "tags": [],
@@ -20994,6 +21096,17 @@
             "tags": [],
             "date": "2023-11-19",
             "duration": 217.536
+        },
+        {
+            "name": "夢現妄想世界",
+            "romaji": "",
+            "band": 7,
+            "artist": [],
+            "order": 1,
+            "album": 192,
+            "tags": [],
+            "date": "2023-11-21",
+            "duration": 212.232
         }
     ]
 }

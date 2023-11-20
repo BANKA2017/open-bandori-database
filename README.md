@@ -18,7 +18,8 @@ En: If can't read Chinese, please use translator.
 - songs_list.json
   - 包含但不限于角色列表/乐队列表/专辑列表，每一首音乐都包含名字/乐队（如含有多个乐队成员则为 `MIXED`）/演唱者/顺序/专辑/发售日/时长/歌词文件（仅用于网站）
   - 歌词文本可能涉及版权问题，目前不会增加到本仓库中
-  - 收录歌曲包括已加入手游的七大团、Glitter*Green、CHiSPA、MyGO!!!!!、Ave Mujica、夢ノ結唱,  不包含从男邦（ARGONAVIS）
+  - 同名的目录只会保留最新版本，其余的会加前缀 `__hidden__`
+  - 收录歌曲包括已加入手游的七大团、Glitter*Green、CHiSPA、MyGO!!!!!、Ave Mujica、sumimi、v团、夢ノ結唱, 不包含从男邦（ARGONAVIS）
   - 默认 `locale` 为 `ja_jp`
 
 ## 授权
