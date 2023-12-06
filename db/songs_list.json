@@ -649,7 +649,8 @@
         "REVELATION",
         "迷跡波",
         "処救生",
-        "夢現妄想世界"
+        "夢現妄想世界",
+        "forte"
     ],
     "songs": [
         {
@@ -21107,6 +21108,91 @@
             "tags": [],
             "date": "2023-11-21",
             "duration": 212.232
+        },
+        {
+            "name": "フレージング ミラージュ",
+            "romaji": "",
+            "band": 5,
+            "artist": [
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "order": 1,
+            "album": 193,
+            "tags": [],
+            "date": "2023-12-06",
+            "duration": 261.744
+        },
+        {
+            "name": "MUGEN Reverberate!",
+            "romaji": "",
+            "band": 5,
+            "artist": [
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "order": 2,
+            "album": 193,
+            "tags": [],
+            "date": "2023-12-06",
+            "duration": 230.376
+        },
+        {
+            "name": "わたしまちがいさがし",
+            "romaji": "",
+            "band": 5,
+            "artist": [
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "order": 3,
+            "album": 193,
+            "tags": [],
+            "date": "2023-12-06",
+            "duration": 270.264
+        },
+        {
+            "name": "esora no clover",
+            "romaji": "",
+            "band": 5,
+            "artist": [
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "order": 4,
+            "album": 193,
+            "tags": [],
+            "date": "2023-12-06",
+            "duration": 193.92
+        },
+        {
+            "name": "きょうもMerry go rounD",
+            "romaji": "",
+            "band": 5,
+            "artist": [
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "order": 5,
+            "album": 193,
+            "tags": [],
+            "date": "2023-12-06",
+            "duration": 234.552
         }
     ]
 }
