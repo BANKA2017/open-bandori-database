@@ -650,7 +650,8 @@
         "迷跡波",
         "処救生",
         "夢現妄想世界",
-        "forte"
+        "forte",
+        "VIOLET LINE"
     ],
     "songs": [
         {
@@ -21193,6 +21194,57 @@
             "tags": [],
             "date": "2023-12-06",
             "duration": 234.552
+        },
+        {
+            "name": "VIOLET LINE",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 1,
+            "album": 194,
+            "tags": [],
+            "date": "2023-12-13",
+            "duration": 290.76
+        },
+        {
+            "name": "Call the shots",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 2,
+            "album": 194,
+            "tags": [],
+            "date": "2023-12-13",
+            "duration": 265.368
+        },
+        {
+            "name": "Sunlit Musical",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 3,
+            "album": 194,
+            "tags": [],
+            "date": "2023-12-13",
+            "duration": 232.104
         }
     ]
 }
