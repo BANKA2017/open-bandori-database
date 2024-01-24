@@ -638,7 +638,7 @@
         "詩超絆",
         "迷路日々",
         "燦々",
-        "新しい季節に",
+        "__hidden__新しい季節に",
         "Call the shots",
         "DANCING DARING",
         "Angel's Ladder",
@@ -653,7 +653,8 @@
         "forte",
         "VIOLET LINE",
         "素晴らしき世界 でも どこにもない場所",
-        "両翼のBrilliance"
+        "両翼のBrilliance",
+        "新しい季節に"
     ],
     "songs": [
         {
@@ -21279,8 +21280,59 @@
             "order": 1,
             "album": 196,
             "tags": [],
-            "date": "2023-01-21",
+            "date": "2024-01-21",
             "duration": 239.928
+        },
+        {
+            "name": "新しい季節に",
+            "romaji": "",
+            "band": 0,
+            "artist": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "order": 1,
+            "album": 197,
+            "tags": [],
+            "date": "2024-01-24",
+            "duration": 211.824
+        },
+        {
+            "name": "ほな！",
+            "romaji": "",
+            "band": 0,
+            "artist": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "order": 2,
+            "album": 197,
+            "tags": [],
+            "date": "2024-01-24",
+            "duration": 227.232
+        },
+        {
+            "name": "Chu Chueen!",
+            "romaji": "",
+            "band": 0,
+            "artist": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "order": 3,
+            "album": 197,
+            "tags": [],
+            "date": "2024-01-24",
+            "duration": 229.944
         }
     ]
 }
