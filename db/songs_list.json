@@ -665,7 +665,8 @@
         "きゅうくらりん",
         "かくれんぼ",
         "ボッカデラベリタ",
-        "怪獣の花唄"
+        "怪獣の花唄",
+        "忘れらんない日々のこと"
     ],
     "songs": [
         {
@@ -21559,6 +21560,91 @@
             "tags": [],
             "date": "2024-03-24",
             "duration": 223.128
+        },
+        {
+            "name": "燦々",
+            "romaji": "",
+            "band": 1,
+            "artist": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "order": 1,
+            "album": 209,
+            "tags": [],
+            "date": "2024-04-03",
+            "duration": 194.928
+        },
+        {
+            "name": "That's why I'm here.",
+            "romaji": "",
+            "band": 1,
+            "artist": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "order": 2,
+            "album": 209,
+            "tags": [],
+            "date": "2024-04-03",
+            "duration": 261.912
+        },
+        {
+            "name": "IGNITE GLOW",
+            "romaji": "",
+            "band": 1,
+            "artist": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "order": 3,
+            "album": 209,
+            "tags": [],
+            "date": "2024-04-03",
+            "duration": 267.408
+        },
+        {
+            "name": "ペトリコール・オベーション",
+            "romaji": "",
+            "band": 1,
+            "artist": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "order": 4,
+            "album": 209,
+            "tags": [],
+            "date": "2024-04-03",
+            "duration": 219.168
+        },
+        {
+            "name": "Made My Day",
+            "romaji": "",
+            "band": 1,
+            "artist": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "order": 5,
+            "album": 209,
+            "tags": [],
+            "date": "2024-04-03",
+            "duration": 244.008
         }
     ]
 }
