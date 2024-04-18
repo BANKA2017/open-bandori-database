@@ -22331,8 +22331,14 @@
         {
             "name": "迷星叫 (Anime Ver.)",
             "romaji": "",
-            "band": 7,
-            "artist": [],
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
             "order": 1,
             "album": 214,
             "tags": [],
@@ -22342,8 +22348,14 @@
         {
             "name": "迷路日々 (Anime Ver.)",
             "romaji": "",
-            "band": 7,
-            "artist": [],
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
             "order": 2,
             "album": 214,
             "tags": [],
