@@ -652,7 +652,7 @@
         "夢現妄想世界",
         "forte",
         "VIOLET LINE",
-        "素晴らしき世界 でも どこにもない場所",
+        "__hidden__素晴らしき世界 でも どこにもない場所",
         "両翼のBrilliance",
         "新しい季節に",
         "ビッグマウス",
@@ -671,7 +671,8 @@
         "限界現実サバイブ天使",
         "TVアニメ「BanG Dream! It's MyGO!!!!!」オリジナルサウンドトラック Vol.1",
         "TVアニメ「BanG Dream! It's MyGO!!!!!」オリジナルサウンドトラック Vol.2",
-        "BanG Dream! It's MyGO!!!!! Special CD"
+        "BanG Dream! It's MyGO!!!!! Special CD",
+        "素晴らしき世界 でも どこにもない場所"
     ],
     "songs": [
         {
@@ -21267,7 +21268,7 @@
             "duration": 232.104
         },
         {
-            "name": "素晴らしき世界 でも どこにもない場所",
+            "name": "素晴らしき世界 でも どこにもない場所",
             "romaji": "",
             "band": 12,
             "artist": [
@@ -22361,6 +22362,40 @@
             "tags": [],
             "date": "2024-04-17",
             "duration": 218.48816326530613
+        },
+        {
+            "name": "素晴らしき世界 でも どこにもない場所",
+            "romaji": "",
+            "band": 12,
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
+            "order": 1,
+            "album": 215,
+            "tags": [],
+            "date": "2024-04-24",
+            "duration": 268.392
+        },
+        {
+            "name": "Angles",
+            "romaji": "",
+            "band": 12,
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
+            "order": 2,
+            "album": 215,
+            "tags": [],
+            "date": "2024-04-24",
+            "duration": 275.112
         }
     ]
 }
