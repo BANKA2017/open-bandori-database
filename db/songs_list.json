@@ -653,7 +653,7 @@
         "forte",
         "VIOLET LINE",
         "__hidden__素晴らしき世界 でも どこにもない場所",
-        "両翼のBrilliance",
+        "__hidden__両翼のBrilliance",
         "新しい季節に",
         "ビッグマウス",
         "輪符雨",
@@ -672,7 +672,8 @@
         "TVアニメ「BanG Dream! It's MyGO!!!!!」オリジナルサウンドトラック Vol.1",
         "TVアニメ「BanG Dream! It's MyGO!!!!!」オリジナルサウンドトラック Vol.2",
         "BanG Dream! It's MyGO!!!!! Special CD",
-        "素晴らしき世界 でも どこにもない場所"
+        "素晴らしき世界 でも どこにもない場所",
+        "両翼のBrilliance"
     ],
     "songs": [
         {
@@ -22396,6 +22397,57 @@
             "tags": [],
             "date": "2024-04-24",
             "duration": 275.112
+        },
+        {
+            "name": "両翼のBrilliance",
+            "romaji": "",
+            "band": 5,
+            "artist": [
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "order": 1,
+            "album": 216,
+            "tags": [],
+            "date": "2024-05-01",
+            "duration": 239.832
+        },
+        {
+            "name": "音がえしのセレナーデ",
+            "romaji": "",
+            "band": 5,
+            "artist": [
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "order": 2,
+            "album": 216,
+            "tags": [],
+            "date": "2024-05-01",
+            "duration": 301.8
+        },
+        {
+            "name": "蒼穹へのトレイル",
+            "romaji": "",
+            "band": 5,
+            "artist": [
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "order": 3,
+            "album": 216,
+            "tags": [],
+            "date": "2024-05-01",
+            "duration": 219.192
         }
     ]
 }
