@@ -673,7 +673,8 @@
         "TVアニメ「BanG Dream! It's MyGO!!!!!」オリジナルサウンドトラック Vol.2",
         "BanG Dream! It's MyGO!!!!! Special CD",
         "素晴らしき世界 でも どこにもない場所",
-        "両翼のBrilliance"
+        "両翼のBrilliance",
+        "トリドリ＊パレット"
     ],
     "songs": [
         {
@@ -22448,6 +22449,23 @@
             "tags": [],
             "date": "2024-05-01",
             "duration": 219.192
+        },
+        {
+            "name": "トリドリ＊パレット",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 1,
+            "album": 217,
+            "tags": [],
+            "date": "2024-06-07",
+            "duration": 252.264
         }
     ]
 }
