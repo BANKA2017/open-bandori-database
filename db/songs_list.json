@@ -674,7 +674,9 @@
         "BanG Dream! It's MyGO!!!!! Special CD",
         "素晴らしき世界 でも どこにもない場所",
         "両翼のBrilliance",
-        "トリドリ＊パレット"
+        "トリドリ＊パレット",
+        "V.I.P MONSTER",
+        "Symbol II：Air"
     ],
     "songs": [
         {
@@ -22466,6 +22468,40 @@
             "tags": [],
             "date": "2024-05-07",
             "duration": 252.264
+        },
+        {
+            "name": "V.I.P MONSTER",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 1,
+            "album": 218,
+            "tags": [],
+            "date": "2024-05-17",
+            "duration": 242.04
+        },
+        {
+            "name": "Symbol II：Air",
+            "romaji": "",
+            "band": 12,
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
+            "order": 1,
+            "album": 219,
+            "tags": [],
+            "date": "2024-05-18",
+            "duration": 212.808
         }
     ]
 }
