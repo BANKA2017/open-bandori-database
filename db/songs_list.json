@@ -676,7 +676,8 @@
         "両翼のBrilliance",
         "トリドリ＊パレット",
         "V.I.P MONSTER",
-        "Symbol II：Air"
+        "Symbol II：Air",
+        "サンバロハッピ～！"
     ],
     "songs": [
         {
@@ -22502,6 +22503,23 @@
             "tags": [],
             "date": "2024-05-18",
             "duration": 212.808
+        },
+        {
+            "name": "サンバロハッピ～！",
+            "romaji": "",
+            "band": 4,
+            "artist": [
+                20,
+                21,
+                22,
+                23,
+                24
+            ],
+            "order": 1,
+            "album": 220,
+            "tags": [],
+            "date": "2024-05-21",
+            "duration": 216.528
         }
     ]
 }
