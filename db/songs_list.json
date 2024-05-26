@@ -677,7 +677,8 @@
         "トリドリ＊パレット",
         "V.I.P MONSTER",
         "Symbol II：Air",
-        "サンバロハッピ～！"
+        "サンバロハッピ～！",
+        "Floral Haven"
     ],
     "songs": [
         {
@@ -22520,6 +22521,23 @@
             "tags": [],
             "date": "2024-05-21",
             "duration": 216.528
+        },
+        {
+            "name": "Floral Haven",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 1,
+            "album": 221,
+            "tags": [],
+            "date": "2024-05-27",
+            "duration": 281.592
         }
     ]
 }
