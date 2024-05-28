@@ -678,7 +678,8 @@
         "V.I.P MONSTER",
         "Symbol II：Air",
         "サンバロハッピ～！",
-        "Floral Haven"
+        "Floral Haven",
+        "いろとりどり"
     ],
     "songs": [
         {
@@ -22538,6 +22539,91 @@
             "tags": [],
             "date": "2024-05-27",
             "duration": 281.592
+        },
+        {
+            "name": "トリドリ＊パレット",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 1,
+            "album": 222,
+            "tags": [],
+            "date": "2024-05-29",
+            "duration": 252.264
+        },
+        {
+            "name": "ドラマチック！アライブ",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 2,
+            "album": 222,
+            "tags": [],
+            "date": "2024-05-29",
+            "duration": 259.56
+        },
+        {
+            "name": "Radiate Warriors",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 3,
+            "album": 222,
+            "tags": [],
+            "date": "2024-05-29",
+            "duration": 240.36
+        },
+        {
+            "name": "ReReReエボリューションず☆",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 4,
+            "album": 222,
+            "tags": [],
+            "date": "2024-05-29",
+            "duration": 214.512
+        },
+        {
+            "name": "everyday flower",
+            "romaji": "",
+            "band": 2,
+            "artist": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "order": 5,
+            "album": 222,
+            "tags": [],
+            "date": "2024-05-29",
+            "duration": 240.336
         }
     ]
 }
