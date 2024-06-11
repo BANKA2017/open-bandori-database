@@ -680,7 +680,8 @@
         "サンバロハッピ～！",
         "Floral Haven",
         "いろとりどり",
-        "エンプティパペット"
+        "エンプティパペット",
+        "SAVAGE"
     ],
     "songs": [
         {
@@ -22636,6 +22637,244 @@
             "tags": [],
             "date": "2024-06-01",
             "duration": 186.048
+        },
+        {
+            "name": "V.I.P MONSTER",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 1,
+            "album": 224,
+            "tags": [],
+            "date": "2024-06-12",
+            "duration": 241.9461224489796
+        },
+        {
+            "name": "mind of Prominence",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 2,
+            "album": 224,
+            "tags": [],
+            "date": "2024-06-12",
+            "duration": 266.2661224489796
+        },
+        {
+            "name": "Ray of hope",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 3,
+            "album": 224,
+            "tags": [],
+            "date": "2024-06-12",
+            "duration": 190.7983673469388
+        },
+        {
+            "name": "EXIST",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 4,
+            "album": 224,
+            "tags": [],
+            "date": "2024-06-12",
+            "duration": 238.49795918367346
+        },
+        {
+            "name": "Sacred world",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 5,
+            "album": 224,
+            "tags": [],
+            "date": "2024-06-12",
+            "duration": 300.64326530612243
+        },
+        {
+            "name": "-N-E-M-E-S-I-S-",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 6,
+            "album": 224,
+            "tags": [],
+            "date": "2024-06-12",
+            "duration": 267.8334693877551
+        },
+        {
+            "name": "DANCING DARING",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 7,
+            "album": 224,
+            "tags": [],
+            "date": "2024-06-12",
+            "duration": 215.11836734693878
+        },
+        {
+            "name": "BATTLE CRY",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 8,
+            "album": 224,
+            "tags": [],
+            "date": "2024-06-12",
+            "duration": 234.39673469387756
+        },
+        {
+            "name": "Domination to world",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 9,
+            "album": 224,
+            "tags": [],
+            "date": "2024-06-12",
+            "duration": 258.2465306122449
+        },
+        {
+            "name": "THE WAY OF LIFE",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 10,
+            "album": 224,
+            "tags": [],
+            "date": "2024-06-12",
+            "duration": 238.23673469387754
+        },
+        {
+            "name": "灼熱 Bonfire!",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 11,
+            "album": 224,
+            "tags": [],
+            "date": "2024-06-12",
+            "duration": 224.83591836734695
+        },
+        {
+            "name": "Repaint",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 12,
+            "album": 224,
+            "tags": [],
+            "date": "2024-06-12",
+            "duration": 234.63183673469388
+        },
+        {
+            "name": "Life on the Lotus",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 13,
+            "album": 224,
+            "tags": [],
+            "date": "2024-06-12",
+            "duration": 243.38285714285715
+        },
+        {
+            "name": "CORUSCATE -DNA-",
+            "romaji": "",
+            "band": 6,
+            "artist": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "order": 14,
+            "album": 224,
+            "tags": [],
+            "date": "2024-06-12",
+            "duration": 287.47755102040816
         }
     ]
 }
