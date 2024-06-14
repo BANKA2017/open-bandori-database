@@ -681,7 +681,8 @@
         "Floral Haven",
         "いろとりどり",
         "エンプティパペット",
-        "SAVAGE"
+        "SAVAGE",
+        "Symbol III：▽"
     ],
     "songs": [
         {
@@ -22875,6 +22876,23 @@
             "tags": [],
             "date": "2024-06-12",
             "duration": 287.47755102040816
+        },
+        {
+            "name": "Symbol III：▽",
+            "romaji": "",
+            "band": 12,
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
+            "order": 1,
+            "album": 225,
+            "tags": [],
+            "date": "2024-06-15",
+            "duration": 256.32
         }
     ]
 }
