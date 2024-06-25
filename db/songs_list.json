@@ -683,7 +683,8 @@
         "エンプティパペット",
         "SAVAGE",
         "Symbol III：▽",
-        "どうしたってカーニバル！"
+        "どうしたってカーニバル！",
+        "Für immer"
     ],
     "songs": [
         {
@@ -22979,6 +22980,210 @@
             "tags": [],
             "date": "2024-06-19",
             "duration": 237.7404081632653
+        },
+        {
+            "name": "Sage der Rosen",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 1,
+            "album": 227,
+            "tags": [],
+            "date": "2024-06-26",
+            "duration": 245.00244897959183
+        },
+        {
+            "name": "BLACK SHOUT",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 2,
+            "album": 227,
+            "tags": [],
+            "date": "2024-06-26",
+            "duration": 245.99510204081633
+        },
+        {
+            "name": "覚悟のLiberation",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 3,
+            "album": 227,
+            "tags": [],
+            "date": "2024-06-26",
+            "duration": 260.88489795918366
+        },
+        {
+            "name": "-HEROIC ADVENT-",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 4,
+            "album": 227,
+            "tags": [],
+            "date": "2024-06-26",
+            "duration": 221.7273469387755
+        },
+        {
+            "name": "陽だまりロードナイト",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 5,
+            "album": 227,
+            "tags": [],
+            "date": "2024-06-26",
+            "duration": 287.0595918367347
+        },
+        {
+            "name": "Keep Heart",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 6,
+            "album": 227,
+            "tags": [],
+            "date": "2024-06-26",
+            "duration": 246.04734693877552
+        },
+        {
+            "name": "熱色スターマイン",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 7,
+            "album": 227,
+            "tags": [],
+            "date": "2024-06-26",
+            "duration": 280.3461224489796
+        },
+        {
+            "name": "ONENESS",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 8,
+            "album": 227,
+            "tags": [],
+            "date": "2024-06-26",
+            "duration": 239.6734693877551
+        },
+        {
+            "name": "Original Call",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 9,
+            "album": 227,
+            "tags": [],
+            "date": "2024-06-26",
+            "duration": 225.38448979591837
+        },
+        {
+            "name": "LOUDER",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 10,
+            "album": 227,
+            "tags": [],
+            "date": "2024-06-26",
+            "duration": 213.99510204081633
+        },
+        {
+            "name": "Always recall.",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 11,
+            "album": 227,
+            "tags": [],
+            "date": "2024-06-26",
+            "duration": 252.36897959183673
+        },
+        {
+            "name": "Floral Haven",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 12,
+            "album": 227,
+            "tags": [],
+            "date": "2024-06-26",
+            "duration": 281.9657142857143
         }
     ]
 }
