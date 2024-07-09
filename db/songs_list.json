@@ -684,7 +684,9 @@
         "SAVAGE",
         "Symbol III：▽",
         "どうしたってカーニバル！",
-        "Für immer"
+        "Für immer",
+        "Symbol IV：Earth",
+        "BanG Dream! カバーコレクション Extra Volume"
     ],
     "songs": [
         {
@@ -23184,6 +23186,125 @@
             "tags": [],
             "date": "2024-06-26",
             "duration": 281.9657142857143
+        },
+        {
+            "name": "Symbol IV：Earth",
+            "romaji": "",
+            "band": 12,
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
+            "order": 1,
+            "album": 228,
+            "tags": [],
+            "date": "2024-07-08",
+            "duration": 239.136
+        },
+        {
+            "name": "君の神様になりたい。",
+            "romaji": "",
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "order": 1,
+            "album": 229,
+            "tags": [],
+            "date": "2024-07-10",
+            "duration": 249.36489795918368
+        },
+        {
+            "name": "swim",
+            "romaji": "",
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "order": 2,
+            "album": 229,
+            "tags": [],
+            "date": "2024-07-10",
+            "duration": 209.5804081632653
+        },
+        {
+            "name": "猛独が襲う",
+            "romaji": "",
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "order": 3,
+            "album": 229,
+            "tags": [],
+            "date": "2024-07-10",
+            "duration": 254.3542857142857
+        },
+        {
+            "name": "暗黒天国",
+            "romaji": "",
+            "band": 12,
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
+            "order": 4,
+            "album": 229,
+            "tags": [],
+            "date": "2024-07-10",
+            "duration": 265.3518367346939
+        },
+        {
+            "name": "堕天",
+            "romaji": "",
+            "band": 12,
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
+            "order": 5,
+            "album": 229,
+            "tags": [],
+            "date": "2024-07-10",
+            "duration": 183.82367346938776
+        },
+        {
+            "name": "KINGS",
+            "romaji": "",
+            "band": 12,
+            "artist": [
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
+            "order": 6,
+            "album": 229,
+            "tags": [],
+            "date": "2024-07-10",
+            "duration": 317.67510204081634
         }
     ]
 }
