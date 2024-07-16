@@ -686,7 +686,8 @@
         "どうしたってカーニバル！",
         "Für immer",
         "Symbol IV：Earth",
-        "BanG Dream! カバーコレクション Extra Volume"
+        "BanG Dream! カバーコレクション Extra Volume",
+        "TARINAI／トレモロアイズ"
     ],
     "songs": [
         {
@@ -23305,6 +23306,40 @@
             "tags": [],
             "date": "2024-07-10",
             "duration": 317.67510204081634
+        },
+        {
+            "name": "TARINAI",
+            "romaji": "",
+            "band": 0,
+            "artist": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "order": 1,
+            "album": 230,
+            "tags": [],
+            "date": "2024-07-17",
+            "duration": 219.66367346938776
+        },
+        {
+            "name": "トレモロアイズ",
+            "romaji": "",
+            "band": 0,
+            "artist": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "order": 2,
+            "album": 230,
+            "tags": [],
+            "date": "2024-07-17",
+            "duration": 241.44979591836736
         }
     ]
 }
