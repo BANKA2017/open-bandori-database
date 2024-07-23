@@ -687,7 +687,8 @@
         "Für immer",
         "Symbol IV：Earth",
         "BanG Dream! カバーコレクション Extra Volume",
-        "TARINAI／トレモロアイズ"
+        "TARINAI／トレモロアイズ",
+        "端程山"
     ],
     "songs": [
         {
@@ -23340,6 +23341,57 @@
             "tags": [],
             "date": "2024-07-17",
             "duration": 241.44979591836736
+        },
+        {
+            "name": "端程山",
+            "romaji": "",
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "order": 1,
+            "album": 231,
+            "tags": [],
+            "date": "2024-07-24",
+            "duration": 261
+        },
+        {
+            "name": "輪符雨",
+            "romaji": "",
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "order": 2,
+            "album": 231,
+            "tags": [],
+            "date": "2024-07-24",
+            "duration": 207.6
+        },
+        {
+            "name": "孤壊牢",
+            "romaji": "",
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "order": 3,
+            "album": 231,
+            "tags": [],
+            "date": "2024-07-24",
+            "duration": 214.632
         }
     ]
 }
