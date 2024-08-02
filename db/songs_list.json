@@ -688,7 +688,8 @@
         "Symbol IV：Earth",
         "BanG Dream! カバーコレクション Extra Volume",
         "TARINAI／トレモロアイズ",
-        "端程山"
+        "端程山",
+        "スタートライン"
     ],
     "songs": [
         {
@@ -23392,6 +23393,61 @@
             "tags": [],
             "date": "2024-07-24",
             "duration": 214.632
+        },
+        {
+            "name": "✞animaるパーティ✞開催中✞",
+            "romaji": "",
+            "band": 7,
+            "artist": [],
+            "order": 1,
+            "album": 232,
+            "tags": [],
+            "date": "2024-08-03",
+            "duration": 177.048
+        },
+        {
+            "name": "エンプティパペット",
+            "romaji": "",
+            "band": 7,
+            "artist": [],
+            "order": 2,
+            "album": 232,
+            "tags": [],
+            "date": "2024-08-03",
+            "duration": 186.048
+        },
+        {
+            "name": "限界現実サバイブ天使",
+            "romaji": "",
+            "band": 7,
+            "artist": [],
+            "order": 3,
+            "album": 232,
+            "tags": [],
+            "date": "2024-08-03",
+            "duration": 196.056
+        },
+        {
+            "name": "ビッグマウス",
+            "romaji": "",
+            "band": 7,
+            "artist": [],
+            "order": 4,
+            "album": 232,
+            "tags": [],
+            "date": "2024-08-03",
+            "duration": 173.064
+        },
+        {
+            "name": "夢現妄想世界",
+            "romaji": "",
+            "band": 7,
+            "artist": [],
+            "order": 5,
+            "album": 232,
+            "tags": [],
+            "date": "2024-08-03",
+            "duration": 212.232
         }
     ]
 }
