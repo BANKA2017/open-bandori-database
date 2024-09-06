@@ -691,7 +691,8 @@
         "端程山",
         "スタートライン",
         "コハク",
-        "Ether"
+        "Ether",
+        "Floral Haven (LIVE ver.)"
     ],
     "songs": [
         {
@@ -23478,6 +23479,23 @@
             "tags": [],
             "date": "2024-08-30",
             "duration": 285.696
+        },
+        {
+            "name": "Floral Haven (LIVE ver.)",
+            "romaji": "",
+            "band": 3,
+            "artist": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "order": 1,
+            "album": 235,
+            "tags": [],
+            "date": "2024-09-06",
+            "duration": 295.08
         }
     ]
 }
