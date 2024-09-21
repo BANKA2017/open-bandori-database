@@ -692,7 +692,8 @@
         "スタートライン",
         "コハク",
         "Ether",
-        "Floral Haven (LIVE ver.)"
+        "Floral Haven (LIVE ver.)",
+        "Tempest"
     ],
     "songs": [
         {
@@ -23496,6 +23497,23 @@
             "tags": [],
             "date": "2024-09-06",
             "duration": 295.08
+        },
+        {
+            "name": "Tempest",
+            "romaji": "",
+            "band": 5,
+            "artist": [
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "order": 1,
+            "album": 236,
+            "tags": [],
+            "date": "2024-09-21",
+            "duration": 252.24
         }
     ]
 }
