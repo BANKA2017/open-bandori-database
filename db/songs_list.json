@@ -693,7 +693,8 @@
         "コハク",
         "Ether",
         "Floral Haven (LIVE ver.)",
-        "Tempest"
+        "Tempest",
+        "過惰幻"
     ],
     "songs": [
         {
@@ -23514,6 +23515,23 @@
             "tags": [],
             "date": "2024-09-21",
             "duration": 252.24
+        },
+        {
+            "name": "過惰幻",
+            "romaji": "",
+            "band": 10,
+            "artist": [
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "order": 1,
+            "album": 237,
+            "tags": [],
+            "date": "2024-09-28",
+            "duration": 237.66204081632654
         }
     ]
 }
